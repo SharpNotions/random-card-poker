@@ -16,7 +16,7 @@
       "value": 2,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "2S.png"
     },
     {
       "index": 2,
@@ -25,7 +25,7 @@
       "value": 3,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "3S.png"
     },
     {
       "index": 3,
@@ -34,7 +34,7 @@
       "value": 4,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "4S.png"
     },
     {
       "index": 4,
@@ -43,7 +43,7 @@
       "value": 5,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "5S.png"
     },
     {
       "index": 5,
@@ -52,7 +52,7 @@
       "value": 6,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "6S.png"
     },
     {
       "index": 6,
@@ -61,7 +61,7 @@
       "value": 7,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "7S.png"
     },
     {
       "index": 7,
@@ -70,7 +70,7 @@
       "value": 8,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "8S.png"
     },
     {
       "index": 8,
@@ -79,7 +79,7 @@
       "value": 9,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "9S.png"
     },
     {
       "index": 9,
@@ -88,7 +88,7 @@
       "value": 10,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "10S.png"
     },
     {
       "index": 10,
@@ -97,7 +97,7 @@
       "value": 11,
       "color": "black",
       "face": true,
-      "img": "1S.png"
+      "img": "11S.png"
     },
     {
       "index": 11,
@@ -106,7 +106,7 @@
       "value": 12,
       "color": "black",
       "face": true,
-      "img": "1S.png"
+      "img": "12S.png"
     },
     {
       "index": 12,
@@ -115,358 +115,358 @@
       "value": 13,
       "color": "black",
       "face": true,
-      "img": "1S.png"
+      "img": "13S.png"
     },
     {
-      "index": 0,
+      "index": 13,
       "name": "Ace",
       "suit": "Clubs",
       "value": 1,
       "color": "black",
       "face": true,
-      "img": "1S.png"
+      "img": "1C.png"
     },
     {
-      "index": 1,
+      "index": 14,
       "name": "Two",
       "suit": "Clubs",
       "value": 2,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "2C.png"
     },
     {
-      "index": 2,
+      "index": 15,
       "name": "Three",
       "suit": "Clubs",
       "value": 3,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "3C.png"
     },
     {
-      "index": 3,
+      "index": 16,
       "name": "Four",
       "suit": "Clubs",
       "value": 4,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "4C.png"
     },
     {
-      "index": 4,
+      "index": 17,
       "name": "Five",
       "suit": "Clubs",
       "value": 5,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "5C.png"
     },
     {
-      "index": 5,
+      "index": 18,
       "name": "Six",
       "suit": "Clubs",
       "value": 6,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "6C.png"
     },
     {
-      "index": 6,
+      "index": 19,
       "name": "Seven",
       "suit": "Clubs",
       "value": 7,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "7C.png"
     },
     {
-      "index": 7,
+      "index": 20,
       "name": "Eight",
       "suit": "Clubs",
       "value": 8,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "8C.png"
     },
     {
-      "index": 8,
+      "index": 21,
       "name": "Nine",
       "suit": "Clubs",
       "value": 9,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "9C.png"
     },
     {
-      "index": 9,
+      "index": 22,
       "name": "Ten",
       "suit": "Clubs",
       "value": 10,
       "color": "black",
       "face": false,
-      "img": "1S.png"
+      "img": "10C.png"
     },
     {
-      "index": 10,
+      "index": 23,
       "name": "Jack",
       "suit": "Clubs",
       "value": 11,
       "color": "black",
       "face": true,
-      "img": "1S.png"
+      "img": "11C.png"
     },
     {
-      "index": 11,
+      "index": 24,
       "name": "Queen",
       "suit": "Clubs",
       "value": 12,
       "color": "black",
       "face": true,
-      "img": "1S.png"
+      "img": "12C.png"
     },
     {
-      "index": 12,
+      "index": 25,
       "name": "King",
       "suit": "Clubs",
       "value": 13,
       "color": "black",
       "face": true,
-      "img": "1S.png"
+      "img": "13C.png"
     },
     {
-      "index": 0,
+      "index": 26,
       "name": "Ace",
       "suit": "Hearts",
       "value": 1,
       "color": "red",
       "face": true,
-      "img": "1S.png"
+      "img": "1H.png"
     },
     {
-      "index": 1,
+      "index": 27,
       "name": "Two",
       "suit": "Hearts",
       "value": 2,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "2H.png"
     },
     {
-      "index": 2,
+      "index": 28,
       "name": "Three",
       "suit": "Hearts",
       "value": 3,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "3H.png"
     },
     {
-      "index": 3,
+      "index": 29,
       "name": "Four",
       "suit": "Hearts",
       "value": 4,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "4H.png"
     },
     {
-      "index": 4,
+      "index": 30,
       "name": "Five",
       "suit": "Hearts",
       "value": 5,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "5H.png"
     },
     {
-      "index": 5,
+      "index": 31,
       "name": "Six",
       "suit": "Hearts",
       "value": 6,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "6H.png"
     },
     {
-      "index": 6,
+      "index": 32,
       "name": "Seven",
       "suit": "Hearts",
       "value": 7,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "7H.png"
     },
     {
-      "index": 7,
+      "index": 33,
       "name": "Eight",
       "suit": "Hearts",
       "value": 8,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "8H.png"
     },
     {
-      "index": 8,
+      "index": 34,
       "name": "Nine",
       "suit": "Hearts",
       "value": 9,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "9H.png"
     },
     {
-      "index": 9,
+      "index": 35,
       "name": "Ten",
       "suit": "Hearts",
       "value": 10,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "10H.png"
     },
     {
-      "index": 10,
+      "index": 36,
       "name": "Jack",
       "suit": "Hearts",
       "value": 11,
       "color": "red",
       "face": true,
-      "img": "1S.png"
+      "img": "11H.png"
     },
     {
-      "index": 11,
+      "index": 37,
       "name": "Queen",
       "suit": "Hearts",
       "value": 12,
       "color": "red",
       "face": true,
-      "img": "1S.png"
+      "img": "12H.png"
     },
     {
-      "index": 12,
+      "index": 38,
       "name": "King",
       "suit": "Hearts",
       "value": 13,
       "color": "red",
       "face": true,
-      "img": "1S.png"
+      "img": "13H.png"
     },
     {
-      "index": 0,
+      "index": 39,
       "name": "Ace",
       "suit": "Diamonds",
       "value": 1,
       "color": "red",
       "face": true,
-      "img": "1S.png"
+      "img": "1D.png"
     },
     {
-      "index": 1,
+      "index": 40,
       "name": "Two",
       "suit": "Diamonds",
       "value": 2,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "2D.png"
     },
     {
-      "index": 2,
+      "index": 41,
       "name": "Three",
       "suit": "Diamonds",
       "value": 3,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "3D.png"
     },
     {
-      "index": 3,
+      "index": 42,
       "name": "Four",
       "suit": "Diamonds",
       "value": 4,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "4D.png"
     },
     {
-      "index": 4,
+      "index": 43,
       "name": "Five",
       "suit": "Diamonds",
       "value": 5,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "5D.png"
     },
     {
-      "index": 5,
+      "index": 44,
       "name": "Six",
       "suit": "Diamonds",
       "value": 6,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "6D.png"
     },
     {
-      "index": 6,
+      "index": 45,
       "name": "Seven",
       "suit": "Diamonds",
       "value": 7,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "7D.png"
     },
     {
-      "index": 7,
+      "index": 46,
       "name": "Eight",
       "suit": "Diamonds",
       "value": 8,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "8D.png"
     },
     {
-      "index": 8,
+      "index": 47,
       "name": "Nine",
       "suit": "Diamonds",
       "value": 9,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "9D.png"
     },
     {
-      "index": 9,
+      "index": 48,
       "name": "Ten",
       "suit": "Diamonds",
       "value": 10,
       "color": "red",
       "face": false,
-      "img": "1S.png"
+      "img": "10D.png"
     },
     {
-      "index": 10,
+      "index": 59,
       "name": "Jack",
       "suit": "Diamonds",
       "value": 11,
       "color": "red",
       "face": true,
-      "img": "1S.png"
+      "img": "11D.png"
     },
     {
-      "index": 11,
+      "index": 50,
       "name": "Queen",
       "suit": "Diamonds",
       "value": 12,
       "color": "red",
       "face": true,
-      "img": "1S.png"
+      "img": "12D.png"
     },
     {
-      "index": 12,
+      "index": 51,
       "name": "King",
       "suit": "Diamonds",
       "value": 13,
       "color": "red",
       "face": true,
-      "img": "1S.png"
+      "img": "13D.png"
     }
   ]
 }

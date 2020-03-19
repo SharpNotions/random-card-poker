@@ -1,29 +1,47 @@
 import React, { Component } from "react";
 import Deck from "../components/Deck/Deck";
 import CardData from "./CardData.json";
-import Cards from "./Cards.css";
+import styles from "./Game.module.css";
 class Game extends Component {
   state = {
     players: [],
     totalPrice: 4
   };
   shuffleDeck() {
-    const shuffledDeck = [];
+    let shuffledDeck = [];
     let deck = CardData.CardSet;
     for (var i = 0; i <= 51; i++) {
       var place = Math.floor(Math.random() * deck.length);
-      console.log(place);
       shuffledDeck.push(deck[place]);
-      deck.slice(place, 1);
+      deck.splice(place, 1);
+      console.log(deck.length);
     }
-    console.log(shuffledDeck);
+    return shuffledDeck;
   }
   render() {
-    this.shuffleDeck();
+    const shuffledDeck = this.shuffleDeck();
+
+    let transformedIngredients = Object.keys(shuffledDeck)
+      .map(igKey => {
+        return [...Array(shuffledDeck[igKey])].map((_, i) => {
+          return (
+            <img
+              className={styles.Card}
+              src={"scards/" + shuffledDeck[igKey].img}
+            />
+          );
+        });
+      })
+      .reduce((arr, el) => {
+        return arr.concat(el);
+      }, []);
+    if (transformedIngredients.length === 0) {
+      transformedIngredients = <p>Please start adding ingredients!</p>;
+    }
     return (
       <div>
-        <img className="Cards.Card" src="scards/1C.png" />
         <Deck />
+        {transformedIngredients}
         <div>{this.state.totalPrice}</div>
         <div>Add Player</div>
       </div>
